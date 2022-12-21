@@ -33,6 +33,10 @@ website:
       contents:
         - teaching.qmd
         
+    - title: "CV"
+      contents:
+        - cv.qmd
+        
     - title: "Resources"
       contents:
         - resources.qmd
