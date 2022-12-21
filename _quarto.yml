@@ -5,6 +5,8 @@ project:
 website:
   title: "Steve B. Holt"
   navbar:
+    background: light
+    search: true
     left:
       - text: "About"
         file: index.qmd
@@ -17,23 +19,25 @@ website:
       - text: "Resources"
         file: resources.qmd
     
-    background: light
 
   sidebar: 
-    - title: "About"
+    - title: "Research"
       style: "docked"
       search: true
       logo: profile.png
       contents:
-        - href: index.qmd
-        - href: research.qmd
-        - href: teaching.qmd
-        - href: cv.qmd
-    
-    - title: "Research"
+        - research.qmd
+        - homework.qmd
+        
+    - title: "Teaching"
       contents:
-        - href: research.qmd
-        - href: homework.qmd
+        - teaching.qmd
+        
+    - title: "Resources"
+      contents:
+        - resources.qmd
+        - data.qmd
+      
 
 format:
   html:
