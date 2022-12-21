@@ -8,11 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+    
+    background: light
 
 format:
   html:
     theme: cosmo
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
