@@ -2,4 +2,4 @@
 title: "Curriculum Vitae"
 ---
 
-[Link to my CV](https://stevebholt.github.io/stevebholt_cv.pdf)
+[Link to my CV](stevebholt_cv.pdf)
