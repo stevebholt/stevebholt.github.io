@@ -1,0 +1,16 @@
+---
+title: "Study Time"
+---
+
+### Gender Gaps in High School Students' Homework Time
+
+#### Seth Gershenson and Stephen B. Holt
+
+#### Abstract
+
+Gender differences in human capital investments made outside of the traditional school day suggest that males and females consume, respond to, and form habits relating to education differently. We document robust, statistically significant one-hour weekly gender gaps in secondary students' non-school study time using time diary data from the 2003--2012 waves of the American Time Use Survey (ATUS) and transcript data from the Educational Longitudinal Study of 2002 (ELS). These complementary data sets provide consistent evidence of gender gaps that favor females and are not explained by gender differences in after-school time use, parental involvement, educational expectations, course taking, past academic achievement, or cognitive ability.
+
+#### Citation
+Gershenson, S., & Holt, S. B. (2015). Gender Gaps in High School Students' Homework Time. Educational Researcher, 44(8), 432-441.
+
+[Link to Paper](https://stevebholt.github.io/GershensonHoltER.pdf)

@@ -6,12 +6,32 @@ website:
   title: "Steve B. Holt"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
+      - text: "About"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Curriculum Vitae"
+        file: cv.qmd
+      - text: "Resources"
+        file: resources.qmd
     
     background: light
+
+  sidebar: 
+    - title: "About"
+      style: "docked"
+      search: true
+      logo: profile.png
+      contents:
+        - href: research.qmd
+        - href: teaching.qmd
+        - href: cv.qmd
+    
+    - title: "Research"
+      contents:
+        - href: homework.qmd
 
 format:
   html:

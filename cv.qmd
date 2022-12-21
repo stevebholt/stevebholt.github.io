@@ -1,0 +1,5 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Link to my CV](https://stevebholt.github.io/stevebholt_cv.pdf)
