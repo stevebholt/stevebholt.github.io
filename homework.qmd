@@ -13,4 +13,4 @@ Gender differences in human capital investments made outside of the traditional 
 #### Citation
 Gershenson, S., & Holt, S. B. (2015). Gender Gaps in High School Students' Homework Time. Educational Researcher, 44(8), 432-441.
 
-[Link to Paper](https://stevebholt.github.io/GershensonHoltER.pdf)
+[Link to Paper](GershensonHoltER.pdf)
