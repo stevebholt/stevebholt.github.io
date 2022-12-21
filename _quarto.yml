@@ -25,12 +25,14 @@ website:
       search: true
       logo: profile.png
       contents:
+        - href: index.qmd
         - href: research.qmd
         - href: teaching.qmd
         - href: cv.qmd
     
     - title: "Research"
       contents:
+        - href: research.qmd
         - href: homework.qmd
 
 format:
