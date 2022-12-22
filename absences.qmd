@@ -1,0 +1,13 @@
+---
+title: "Race, Absences, and Suspensions"
+---
+
+### The Impact of Demographic Representation on Absences and Suspensions
+
+#### Abstract
+Representative bureaucracy theory is central to public administration scholarship due to the likely relationship between the demographic composition of the public workforce and both the actual and perceived performance of public organizations. Primary school classrooms provide an ideal context in which to test the predictions of representative bureaucracy theory at the micro (student) level. Specifically, as parents have at least some agency over primary school students’ daily attendance, absences partially reflect parental assessments of their child's school, classroom, and teacher. Ensuring students attend school each day represents an effort at coproduction on the part of parents. The representativeness of the teacher workforce, and specifically that of the student's classroom teacher, is therefore likely to influence student absenteeism. Similarly, student suspensions reflect students’ relationships with their teacher, students’ comfort level in the classroom, and teachers’ discretion in the referral of misbehavior. These academically and socially important outcomes provide convenient, objective measures of behaviors that are likely influenced by street-level representation. Using longitudinal student-level administrative data from North Carolina, we use a two-way (student and classroom) fixed effects strategy to identify the impact of student–teacher demographic mismatch on primary school students’ absences and suspensions. We find that representation among street-level bureaucrats significantly decreases both absenteeism and suspensions and that these effects can be given a causal interpretation. This pushes literature forward by establishing the importance of demographic representation in shaping productive relationships between individual bureaucrats and clients.
+
+#### Citation
+Holt, S. B., & Gershenson, S. (2019). The impact of demographic representation on absences and suspensions. *Policy Studies Journal*, *47*(4), 1069-1099.
+
+[Full Text](HoltGershenson2017PSJ.pdf)

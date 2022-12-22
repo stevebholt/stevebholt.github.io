@@ -30,6 +30,9 @@ website:
         - grading.qmd
         - referrals.qmd
         - charter.qmd
+        - nursinghome.qmd
+        - civics.qmd
+        - absences.qmd
         - sector.qmd
         - expectations.qmd
         - homework.qmd

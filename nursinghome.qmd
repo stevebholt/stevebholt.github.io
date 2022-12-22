@@ -1,0 +1,13 @@
+---
+title: "Managing Racial Diversity"
+---
+
+### Managing Racial Diversity: Matching Internal Strategies with Environmental Needs
+
+#### Abstract
+Although demographic diversity has been of paramount concern to researchers and practitioners in public management, studies exploring managerial strategies to capitalize on and respond to the needs of diverse client populations are scarce. This article examines strategies for managing diversity as a way to buffer environmental challenges in service delivery and performance resulting from heterogeneous client demands. Findings suggest that administrators prioritize diversity efforts when faced with higher levels of regulatory violations (a performance measure). A higher percentage of black residents is associated with lower service quality. However, the effect of managerial strategies for diversity on performance is conditioned by the racial composition of the clients: as the percentage of black nursing home residents increases, diversity management efforts are associated with a lower number of regulatory violations. Similarly, at higher levels of racial heterogeneity, diversity management efforts are associated with fewer regulatory violations.
+
+#### Citation
+Amirkhanyan, A. A., Holt, S. B., McCrea, A. M., & Meier, K. J. (2019). Managing racial diversity: Matching internal strategies with environmental needs. *Public Administration Review*, *79*(1), 69-81.
+
+[Full Text](AmirkhanyanHoltMcReaMeier2019PAR.pdf)

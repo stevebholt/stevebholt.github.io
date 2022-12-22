@@ -1,0 +1,13 @@
+---
+title: "Civics, Service, and PSM"
+---
+
+### The Influence of High Schools on Developing Public Service Motivation
+
+#### Abstract
+Despite the theoretical importance of public service motivation (PSM) for the public sector, little is known about the malleability and causal determinants of PSM. Formal schooling is one possible determinant of PSM. Using longitudinal data, this study analyzes the effects of civics courses and school-based community service in high school on PSM-related values. A propensity score matching strategy that compares observationally similar individuals finds that participation in school-based service activities for credit increases students’ reported prosocial values, such as helping others in the community, one underlying component of PSM-related values. However, taking a civics course does not affect PSM or associated values. The results suggest that PSM-related values are malleable and responsive to early service experiences. The values underlying PSM may evolve over time. That is, the development of prosocial values in adolescence may lead to the future development of other values important to PSM.
+
+#### Citation
+Holt, S. B. (2019). The influence of high schools on developing public service motivation. *International Public Management Journal*, *22*(1), 127-175.
+
+[Full Text](Holt2018IPMJ.pdf)
