@@ -1,0 +1,13 @@
+---
+title: "Charters and Teachers"
+---
+
+### Sorting it Out: The Effects of Charter Expansion on Teacher and Student Composition at Traditional Public Schools
+
+#### Abstract
+Since their introduction in the 1990s, charter schools have grown from a small-scale experiment to a ubiquitous feature of the public education landscape. The current study uses the legislative removal of a cap on the maximum number of charters in North Carolina as a natural experiment to assess the impacts of charter school growth on teacher quality and student composition in traditional public schools (TPS) at different levels of local market penetration. Using an instrumental variable difference-in-differences approach to account for endogenous charter demand, we find that intensive local charter entry reduces the inflow of new teachers at nearby TPS, leading to a more experienced and credentialed teaching workforce on average. However, we find that the entry of charters serving predominantly White students leads to reductions in average teacher experience, effectiveness, and credentials at nearby TPS. Overall these findings suggest that the composition of the teacher workforce in TPS will continue to change as charter schools further expand, and that the spillover effects of future charter expansion will vary by the types of students served by charters.
+
+#### Citation
+Sorensen, L. C., & Holt, S. B. (2021). Sorting it out: The effects of charter expansion on teacher and student composition at traditional public schools. *Economics of Education Review*, *82*, 102095.
+
+[Full Text](SorensenHolt2021EER.pdf)

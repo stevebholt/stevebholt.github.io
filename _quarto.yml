@@ -29,6 +29,7 @@ website:
         - research.qmd
         - grading.qmd
         - referrals.qmd
+        - charter.qmd
         - homework.qmd
         
     - title: "Teaching"
