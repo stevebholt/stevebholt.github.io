@@ -27,6 +27,7 @@ website:
       logo: profile.png
       contents:
         - research.qmd
+        - grading.qmd
         - homework.qmd
         
     - title: "Teaching"
