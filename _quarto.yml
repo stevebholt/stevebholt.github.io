@@ -28,6 +28,7 @@ website:
       contents:
         - research.qmd
         - grading.qmd
+        - referrals.qmd
         - homework.qmd
         
     - title: "Teaching"

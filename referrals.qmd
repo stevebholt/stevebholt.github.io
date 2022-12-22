@@ -1,0 +1,13 @@
+---
+title: "Referral Use"
+---
+
+### Strictly speaking: Examining teacher use of punishment and student outcomes
+
+#### Abstract
+While a growing body of literature has documented the negative impacts of exclusionary punishments, such as suspensions, on academic outcomes, less is known about how teachers vary in disciplinary behaviors and the attendant impacts on students. We use administrative data from North Carolina elementary schools to examine the extent to which teachers vary in their use of referrals and investigate the impact of more punitive teachers on student attendance and achievement. We also estimate the effect of teachers' racial bias in the use of referrals on student outcomes. We find more punitive teachers increase student absenteeism and reduce student achievement. Moreover, more punitive teachers negatively affect the achievement of students who do not receive disciplinary sanctions from the teacher. Similarly, while teachers with racial bias in the use of referrals do not negatively affect academic outcomes for White students, they significantly increase absenteeism and reduce achievement for Black students. We find the negative effects of both more punitive and more biased teachers persist into middle school and beyond. The results suggest punitive disciplinary measures do not aid teachers in productively managing classrooms; rather, teachers taking more punitive stances may undermine student engagement and learning in both the short- and long-run. Furthermore, bias in teachers' referral usage contributes to inequities in student outcomes. 
+
+#### Citation
+Holt, S. B., Vinopal, K., Choi, H., & Sorensen, L. C. (2022). Strictly Speaking: Examining Teacher Use of Punishments and Student Outcomes. *Working Paper*.
+
+[Full Text](HoltEtAl2022Referrals.pdf)
