@@ -36,7 +36,7 @@ Selecting classes in Rockefeller is the primary time you will be consulting me. 
 
 4.  Use the AVN to register.
 
-::: {callout-tip}
+:::{.callout-tip}
 Outside of the occassional circumstance regarding an elective choice, you generally do not need to meet with me unless you really find yourself lost and in need of clarification. Students often feel obligated to request meetings, which slows down your registration process given scheduling conflicts, so I note this simply to underscore that there is no obligation for you to meet with me in this scheduling process if *you* don't really need it.
 :::
 
@@ -57,7 +57,7 @@ The general way to understand the MPA program is 8 core courses for generalized 
 [^1]: Of course, there is no such thing as a truly wasted class as all knowledge, growth, and experience has intrinsic value, particularly when creatively applied :).
 
 | Semester      | Approach 1                       | Approach 2                                                                               | Approach 3                       |
-|---------------|----------------------------------|------------------------------------------------------------------------------------------|----------------------------------|
+|------------------|------------------|------------------|------------------|
 | First         | RPAD 500, RPAD 504, Elective 1   | RPAD 500, RPAD 503, RPAD 505                                                             | RPAD 500, RPAD 501, RPAD 504     |
 | Second        | RPAD 502, RPAD 505, Elective 2   | (if Policy) RPAD 504, RPAD 522, RPAD 643; (if Management) RPAD 505, RPAD 610, Elective 2 | RPAD 503, RPAD 505, Elective 1   |
 | Going Forward | 2 cores, 1 elective per semester | 2 cores, 1 elective per semester                                                         | 2 electives, 1 core per semester |
@@ -82,7 +82,7 @@ This leaves you with one elective to explore other topics or areas of interest t
 A good example plan:
 
 | Semester | Classes                                                         |
-|----------|-----------------------------------------------------------------|
+|--------------------------------------|----------------------------------|
 | First    | RPAD 500, RPAD 504, RPAD 610                                    |
 | Second   | RPAD 502, RPAD 501, RPAD 532 OR RPAD 615 (pending availability) |
 | Third    | RPAD 506, RPAD 505, RPAD 532 OR RPAD 615 (whichever not taken)  |
