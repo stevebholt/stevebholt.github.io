@@ -22,7 +22,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 1.  Vinopal, K., & **Holt, S. B.** (2019). Rookie mistakes: The interplay of teacher experience and racial representation. *Educational Researcher*, *48*(7), 421-437.
 
-2.  Johnston, J. M., & **Holt, S. B.** (2021). Examining the influence of representative bureaucracy in public and private prisons. *Policy Studies Journal*, *49*(2), 516-561.
+2.  Johnston, J. M., & **Holt, S. B.** (2021). [Examining the influence of representative bureaucracy in public and private prisons.](prisons.qmd) *Policy Studies Journal*, *49*(2), 516-561.
 
 3.  Amirkhanyan, A. A., **Holt, S. B.**, McCrea, A. M., & Meier, K. J. (2019). [Managing racial diversity: Matching internal strategies with environmental needs.](nursinghome.qmd) *Public Administration Review*, *79*(1), 69-81.
 
@@ -40,7 +40,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 4.  **Holt, S. B.** (2020). Giving time: Examining sector differences in volunteering intensity. *Journal of Public Administration Research and Theory*, *30*(1), 22-40.
 
-5.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). Job mobility among Millennials: Do they stay or do they go?. *Review of Public Personnel Administration*, *41*(2), 219-249.
+5.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). [Job mobility among Millennials: Do they stay or do they go?.](millennials.qmd) *Review of Public Personnel Administration*, *41*(2), 219-249.
 
 6.  **Holt, S. B.** (2018). [For those who care: The effect of public service motivation on sector selection.](sector.qmd) *Public Administration Review*, *78*(3), 457-471.
 

@@ -1,0 +1,13 @@
+---
+title: "Representation and Prisons"
+---
+
+### Examining the Influence of Representative Bureaucracy in Public and Private Prisons
+
+#### Abstract
+Representative bureaucracy theory suggests that demographic representation among street-level bureaucrats will improve outcomes for minority citizens receiving a given public service. Scholars of representation in public bureaucracies argue that the effect of bureaucrats' demographic profile on outcomes for minority citizens becomes particularly salient in contexts where bureaucrats exercise relatively high amounts of discretion. Empirical evidence has documented this relationship in education, policing, and a variety of public programs. We extend this literature to the context of prisons, where street-level corrections staff exercise considerable discretion over inmates’ daily lives. Using prison violence and disciplinary actions to proxy for the potential effects of a representative staff on the experiences of prison inmates, we find that prisons with greater representation have fewer assaults and exercise fewer disciplinary actions. We offer evidence that the positive effects of demographic representation may not hold in privately managed prisons. We speculate that differential organizational socialization and managerial incentives may help to explain this result.
+
+#### Citation
+Johnston, J. M., & Holt, S. B. (2021). Examining the influence of representative bureaucracy in public and private prisons. *Policy Studies Journal*, *49*(2), 516-561.
+
+[Full Text](JohnstonHolt2019PSJ.pdf)

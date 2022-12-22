@@ -1,0 +1,13 @@
+---
+title: "Job and Sector Mobility"
+---
+
+### Job Mobility Among Millennials: Do They Stay or Do They Go?
+
+#### Abstract
+Millennials are a substantial segment of the workforce; they are perceived to be driven by higher pay, quick to be dissatisfied and leave a job, and committed to volunteering. This article examines how these perceptions translate to job mobility in terms of job switching within and across sectors, without drawing cross-generation comparisons. Using data from the National Longitudinal Survey of Youth 1997 cohort (NLSY97) from 2008 to 2013, we notice a trend among millennials of frequent job switching within rather than across sectors. Job dissatisfaction is the strongest predictor of public-sector employees switching jobs within the sector. For sector switching, we find some variation: Low pay corresponds with exiting the nonprofit sector, whereas job dissatisfaction is the strongest predictor of leaving the public sector. Millennials working in the public and nonprofit sectors are less likely to switch sectors if they volunteer. Implications for theory and practice are discussed.
+
+#### Citation
+AbouAssi, K., McGinnis Johnson, J., & Holt, S. B. (2021). Job mobility among Millennials: Do they stay or do they go?. *Review of Public Personnel Administration*, *41*(2), 219-249.
+
+[Full Text](AbouAssiJohnsonHolt2019ROPPA.pdf)
