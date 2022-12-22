@@ -1,0 +1,108 @@
+---
+title: "MPA Advising FAQ"
+---
+
+# Welcome to Rockefeller College!
+
+Hello and welcome to Rockefeller College. If you're reading this, you probably were just admitted to the Rockefeller College Master's of Public Administration Program, were assigned me as an advisor, and received a welcome email from me with a link to this post. (If you're reading this because you were exploring my site and stumbled upon this post, go ahead and click away - this will be quite irrelevant to you.) Perhaps you're wondering why I have directed you to a post on my professional website as an incoming advisee. Well, in my time at Rockefeller College, I've begun to realize that many students enter the program a little confused about navigating the bureaucracy of a university, a little confused about who to go to for what information, and anxious to get quick resolutions to these problems. I've also come to realize that I field many of the same questions repeatedly early on so I have found life might be a little easier for all involved if I simply created a central repository to house all of this information as a starting point for most common questions.
+
+I will structure this post with a general overview of the process for selecting classes, a more detailed set of starting semester courses, and some thoughts on common paths among students typically assigned to me for advising.
+
+# Overview of Selecting Classes
+
+## Roles and Functions
+
+So why would I start with class selection? Well, for starters, my primary role in your time at the university is to make sure you stay on track to fulfill your degree requirements and provide insight and advice from time-to-time on things that might shape your early career path. Of course, there might be a whole host of other issues that crop up in your time at Rockefeller, from financial aid to taking temporary leaves to career and job opportunities. I find many students enter the program a little confused on where to go for information on which things, so here's an incomplete list of people and places to get important information.
+
+1.  [Your MPA Program Handbook](https://www.albany.edu/rockefeller/student-faculty-resources). I know - this sounds a little trite. But the faculty and staff poured a lot of time and thought into the design and information in the MPA Program Manual and it will always be the best place to start a search for college policies, program requirements, and directory informaion.
+
+2.  The Director of Internships and Career Services. If you have any questions or concerns about internship requirements (or waivers!) or internship/job postings, the Director should be the first person you email. In fact, this person is so important for your success, I strongly recommend you set up a meeting with them during your first semester to cover career goals and interests and get an early understanding of career opportunities. You can email career services here for any career and internship needs: rockefeller.careers\@albany.edu.
+
+3.  The MPA Director. Currently, the MPA Director is Dr. Ellen Rubin and for advanced programmatic issues - credit transfers, issues with a class, or other more technical issues with the program - she is the person you should reach out to first (erubin\@albany.edu).
+
+4.  Rockefeller College Graduate Services. We have staff that handle a range of other issues, from problems with accessing various systems to answering questions unrelated to class-taking. Email rockgradservices\@albany.edu and they will either handle the issue directly or loop in the appropriate staff person to do so.
+
+As you can see, there's a lot of support for any issues that might come up. As your academic advisor, I play a very specific role in your time at the program and to save yourself time and headaches, I find that it's good to know where to go for all the other things that might come up.
+
+## Class Selection
+
+Selecting classes in Rockefeller is the primary time you will be consulting me. I will lay out some guidelines about classes to take later in another section, but here, it's useful to have an overview of how you should approach registration. My role is to i) make sure you are fulfilling the program requirements in a timely manner and ii) provide advice on course selection when needed. Toward that end, here is how the class selection process should look in a typical situation:
+
+1.  Access the schedule of classes website through the Registrar's Office on the University at Albany website. You can use this [link](https://www.albany.edu/registrar/schedule-classes). Start by selecting the upcoming semester in the dropdown, make sure you select Graduate Classes only, and for most instances you will also be filtering by "RPAD" in the *Course Subject* field. Use this to peruse the courses available that semester and create your schedule of classes that fits your course requirements and scheduling needs.
+
+2.  Send me an email with i) a list of the classes you've taken to date in the program (if any) and ii) your proposed schedule for the upcoming semester. **If needed** request a meeting to discuss any questions you might have about courses to take (often, this is productive if there are two electives you are considering and unsure which would be a better fit with your long-term goals)
+
+3.  After confirming that your proposed schedule leaves you on track, I will send you an AVN.
+
+4.  Use the AVN to register.
+
+::: {callout-tip}
+Outside of the occassional circumstance regarding an elective choice, you generally do not need to meet with me unless you really find yourself lost and in need of clarification. Students often feel obligated to request meetings, which slows down your registration process given scheduling conflicts, so I note this simply to underscore that there is no obligation for you to meet with me in this scheduling process if *you* don't really need it.
+:::
+
+# Common Paths
+
+In this section, I go over some common paths through the program for students interested in public management or public policy concentrations (the students I most frequently advise). We have recently overhauled the MPA curriculum in a way that intends for students to be able to take electives earlier in their time at Rockefeller without necessarily completing the core in a strictly linear fashion.
+
+## First and Second Semester
+
+The general way to understand the MPA program is 8 core courses for generalized skills and knowledge and 4 more specialized electives. In your first two semesters, there are three possible approaches.
+
+-   Approach 1 - my recommended approach for most students who know their intended concentration on entry (except for Public Policy students) - provides a steady way to progress through the core while adding electives each semester to develop your more specialized concentration skills.
+
+-   Approach 2 - what I recommend for students on the fence between the two concentrations I advise (management or policy) **OR** who know from the start that they will be in the public policy concentration. For students on the fence, this approach gives you an early taste of what both concentrations emphasize to inform your decision without "wasting" an elective.[^1] For Public Policy students, this approach covers the prerequisites for the two required electives that have prerequisites.
+
+-   Approach 3 - which I only recommend in circumstances where a student is truly and completely undecided in their concentration intentions - gives you an upfront spread of more general classes to help you answer that question before taking electives.
+
+[^1]: Of course, there is no such thing as a truly wasted class as all knowledge, growth, and experience has intrinsic value, particularly when creatively applied :).
+
+| Semester      | Approach 1                       | Approach 2                                                                               | Approach 3                       |
+|---------------|----------------------------------|------------------------------------------------------------------------------------------|----------------------------------|
+| First         | RPAD 500, RPAD 504, Elective 1   | RPAD 500, RPAD 503, RPAD 505                                                             | RPAD 500, RPAD 501, RPAD 504     |
+| Second        | RPAD 502, RPAD 505, Elective 2   | (if Policy) RPAD 504, RPAD 522, RPAD 643; (if Management) RPAD 505, RPAD 610, Elective 2 | RPAD 503, RPAD 505, Elective 1   |
+| Going Forward | 2 cores, 1 elective per semester | 2 cores, 1 elective per semester                                                         | 2 electives, 1 core per semester |
+
+::: callout-important
+A subtlety many students might not pickup on is that core classes are, by necessity, offered on a guaranteed and frequent schedule, while electives have a less gauranteed schedule in their cycling and offerings. While many of the electives offered in Rockefeller are cycled annually, some are cycled biennially. The unpredictability of scheduling becomes even more severe when considering electives operated by another department. Exploit the timing and scheduling flexibility to take an elective you **really** want to take the semester it's offered because you don't know if/when it will be offered again!
+:::
+
+For filling in the "Elective 2" placeholders and thinking about your courses after the first two semesters, see my description of each concentration below and the key classes to look out for on the schedule.
+
+## Public Management
+
+The public management concentration focuses on key concepts and skills for managing public organizations - things like managing personnel, measuring the performance of both individuals and programs your organization operates, and thinking about contracts and grants (and the entities receiving them). The primary aim of taking this concentration is to learn how to manage the people and projects that make government run, regardless of what area of government you would like to be operating within. As you may have noticed, RPAD 610 is required for the concentration and I recommend taking it in your first semester if you are following approach 1 (i.e., you are coming in knowing you want to be in the public management concetration) or your second semester if you have decided to go the public management route after entering undecided.
+
+From there, my general recommendation is you take the following classes **as they are available in scheduling** following the 1 elective per semester approach:
+
+-   RPAD 532 Performance Measurement and Contracting
+-   RPAD 615 Strategic Planning and Management
+
+This leaves you with one elective to explore other topics or areas of interest to you. I suggest using it to take either RPAD 626 (Program Evaluation) as it provides a broadly applicable skillset **or** a policy topics class based on your area of content interest (e.g., health policy, environmental policy, education policy - see the policy concentration in the handbook/below). If you have a job in a particular agency in mind (e.g., New York State Education Department), using your elective on a content class in that department's area can help signal your interest and knowledge on the front end and catch you up on the broader sets of issues and current debates for helping your work once you get started.
+
+A good example plan:
+
+| Semester | Classes                                                         |
+|----------|-----------------------------------------------------------------|
+| First    | RPAD 500, RPAD 504, RPAD 610                                    |
+| Second   | RPAD 502, RPAD 501, RPAD 532 OR RPAD 615 (pending availability) |
+| Third    | RPAD 506, RPAD 505, RPAD 532 OR RPAD 615 (whichever not taken)  |
+| Fourth   | RPAD 503, RPAD 507, RPAD 626 OR Policy Topic Elective           |
+
+## Public Policy
+
+The policy concentration has two "flavors" that can help you better understand it - an applied economics approach for assessing the potential (and observed!) impacts of government policies and programs and a political science approach that focuses on the policy process and the actors and institutions that shape government policy. However, unlike the public management concentration, the Public Policy concentration carries a little less flexibility in your coursework and sequencing. While generally we have moved away from specific pathing in our curriculum, the Policy concentration covers some more advanced technical material in its core - material that necessitates some prerequisite knowledge to get the most out of it. I think it's generally a good idea to take RPAD 503 (a prerequisite for RPAD 643) and RPAD 505 (a prerequisite for RPAD 626) in your first semester if you know you are going to be a public policy concentration student. From there, you will take both RPAD 522 (Politics and Policy) and RPAD 643 (Economics of Public Policy) as they are available (every Spring semester). You will then take RPAD 626 in your second Fall semester. Finally, I recommend dedicating your last elective either to one of the content area policy classes (e.g., health, environmental, or education policy) that aligns with your interests or to an advanced econometrics class if possible (RPAD 517 or a more advanced class - talk to me if you are interested in taking this route).
+
+For students interested in education, urban, health, or criminal justice policy who missed out on the RPAD elective when it was offered, I strongly recommend looking at Graduate Level classes in the School of Education, Public Health, Urban Planning, or Criminal Justice. Classes with policy in the name are often good crossover classes for our students, but that is the sort of thing to put in your email to me and that might warrant a meeting and conversation.
+
+::: callout-note
+This is a suggested path to make things clear and ensure you cover your bases with classes offered on a regular and predictable schedule. However, if any of the three electives is just not your cup of tea, you can substitute it for an elective of your choice. You should enter as if you will take these three electives though so that you do not get hung up by pre-requisites.
+:::
+
+A good example plan:
+
+| Semester | Classes                                               |
+|----------|-------------------------------------------------------|
+| First    | RPAD 500, RPAD 503, RPAD 505                          |
+| Second   | RPAD 504, RPAD 643, RPAD 522                          |
+| Third    | RPAD 501, RPAD 502, RPAD 626                          |
+| Fourth   | RPAD 506, RPAD 507, Policy Topic Elective OR RPAD 517 |

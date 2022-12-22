@@ -43,6 +43,7 @@ website:
     - title: "Resources"
       contents:
         - resources.qmd
+        - mpa.qmd
         - data.qmd
       
 
