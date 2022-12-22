@@ -28,7 +28,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 4.  **Holt, S. B.**, & Gershenson, S. (2019). The impact of demographic representation on absences and suspensions. *Policy Studies Journal*, *47*(4), 1069-1099.
 
-5.  Gershenson, S., **Holt, S. B.**, & Papageorge, N. W. (2016). Who believes in me? The effect of student--teacher demographic match on teacher expectations. *Economics of Education Review*, *52*, 209-224.
+5.  Gershenson, S., **Holt, S. B.**, & Papageorge, N. W. (2016). [Who believes in me? The effect of student--teacher demographic match on teacher expectations.](expectations.qmd) *Economics of Education Review*, *52*, 209-224.
 
 ### Motivation
 
@@ -42,7 +42,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 5.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). Job mobility among Millennials: Do they stay or do they go?. *Review of Public Personnel Administration*, *41*(2), 219-249.
 
-6.  **Holt, S. B.** (2018). For those who care: The effect of public service motivation on sector selection. *Public Administration Review*, *78*(3), 457-471.
+6.  **Holt, S. B.** (2018). [For those who care: The effect of public service motivation on sector selection.](sector.qmd) *Public Administration Review*, *78*(3), 457-471.
 
 7.  **Holt, S. B.** (2019). The influence of high schools on developing public service motivation. *International Public Management Journal*, *22*(1), 127-175.
 

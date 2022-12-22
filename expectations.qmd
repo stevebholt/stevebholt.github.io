@@ -1,0 +1,13 @@
+---
+title: "Teacher Expectations"
+---
+
+### Who believes in me? The effect of student–teacher demographic match on teacher expectations
+
+#### Abstract
+Teachers are an important source of information for traditionally disadvantaged students. However, little is known about how teachers form expectations and whether they are systematically biased. We investigate whether student–teacher demographic mismatch affects high school teachers’ expectations for students’ educational attainment. Using a student fixed effects strategy that exploits expectations data from two teachers per student, we find that non-black teachers of black students have significantly lower expectations than do black teachers. These effects are larger for black male students and math teachers. Our findings add to a growing literature on the role of limited information in perpetuating educational attainment gaps.
+
+#### Citation
+Gershenson, S., Holt, S. B., & Papageorge, N. W. (2016). Who believes in me? The effect of student--teacher demographic match on teacher expectations. *Economics of Education Review*, *52*, 209-224.
+
+[Full Text](GershensonHoltPapageorgeEER.pdf)

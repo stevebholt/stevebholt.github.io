@@ -1,0 +1,13 @@
+---
+title: "PSM and Sector"
+---
+
+### For Those Who Care: The Effect of Public Service Motivation on Sector Selection
+
+#### Abstract
+Public service motivation (PSM) theory suggests that the alignment of values may explain sorting into public service work. Evidence suggests that people with high PSM cluster in government and nonprofit organizations. However, reliance on cross-sectional data leaves open the question of whether observed patterns are the result of public and nonprofit organizations attracting and selecting high-PSM people or cultivating PSM through socialization within the sector. Using longitudinal data, this article analyzes the relationship between motivational bases, such as PSM, and sorting into the public, for-profit, and nonprofit sectors. The results indicate that PSM-related values, measured before labor market entry, predict the sector a person will select for employment. Moreover, the effect on sector selection does not operate through some commonly cited alternative predictor of sector employment, such as college completion. Rather, PSM predicts sorting into college majors in a manner consistent with sector sorting in the labor market.
+
+#### Citation
+Holt, S. B. (2018). For those who care: The effect of public service motivation on sector selection. *Public Administration Review*, *78*(3), 457-471.
+
+[Full Text](Holt2018PAR.pdf)
