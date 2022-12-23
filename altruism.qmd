@@ -1,0 +1,13 @@
+---
+title: "PSM and Altruism"
+---
+
+### Prosocial Behaviors: A Matter of Altruism or Public Service Motivation?
+
+#### Abstract
+In recent years, public service motivation (PSM) research has grown substantially, but is still largely limited to the field of public administration. To be able to export the theory and measures of PSM to other disciplines, we need more conceptual clarity. Some suggest PSM is analogous to altruism, whereas others warn not to confound the two concepts. Is PSM separate from altruism? How does each motivational construct relate to prosocial behaviors? We use a nationally representative panel of respondents to the Cooperative Congressional Election Study (CCES) to measure both altruism and PSM among respondents before the 2016 election and measure respondents’ participation in prosocial behaviors after the 2016 election. Using linear probability models with state fixed effects, we find that although PSM and altruism predict prosocial behaviors separately, altruism has no effect after controlling for PSM. PSM is a more consistent predictor of some prosocial behaviors than altruism, particularly in more formal contexts such as volunteering with an organization.
+
+#### Citation
+Piatak, J. S., & Holt, S. B. (2020). Prosocial behaviors: A matter of altruism or public service motivation?. *Journal of Public Administration Research and Theory*, *30*(3), 504-518.
+
+[Full Text](PiatakHolt2019JPART.pdf)

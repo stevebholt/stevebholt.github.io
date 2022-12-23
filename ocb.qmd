@@ -1,0 +1,13 @@
+---
+title: "PSM and OCB"
+---
+
+### Disentangling altruism and public service motivation: who exhibits organizational citizenship behaviour?
+
+#### Abstract
+Public service motivation (PSM) is a core concept in public administration, but has gained less traction in other disciplines. To address this, we need to differentiate PSM from related concepts, such as altruism. We examine the separate and joint influence of PSM and altruism on organizational citizenship behaviour (OCB) using a nationally representative dataset, where the two constructs are measured on a survey preceding the measurement of OCB. Separately, both altruism and PSM drive OCB. However, when examining the joint influence of PSM and altruism, we find only PSM significantly predicts OCB, which may be due to the organizational context.
+
+#### Citation
+Piatak, J. S., & Holt, S. B. (2020). Disentangling altruism and public service motivation: who exhibits organizational citizenship behaviour?. *Public Management Review*, *22*(7), 949-973.
+
+[Full Text](PiatakHolt2020PMR.pdf)

@@ -14,7 +14,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 4.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The effects of charter expansion on teacher and student composition at traditional public schools.](charter.qmd) *Economics of Education Review*, *82*, 102095.
 
-5.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). Stress Test: Examining the Evolution of Teachers' Mental Health Over Time. *Working Paper*.
+5.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). [Stress Test: Examining the Evolution of Teachers' Mental Health Over Time.](mentalhealth.qmd) *Working Paper*.
 
 6.  Gershenson, S., & **Holt, S. B.** (2015). [Gender gaps in high school students' homework time.](homework.qmd) *Educational Researcher*, *44*(8), 432-441.
 
@@ -32,9 +32,9 @@ My research to date can be found here and is organized by broad topic and (rough
 
 ### Motivation
 
-1.  Piatak, J. S., & **Holt, S. B.** (2020). Disentangling altruism and public service motivation: who exhibits organizational citizenship behaviour?. *Public Management Review*, *22*(7), 949-973.
+1.  Piatak, J. S., & **Holt, S. B.** (2020). [Disentangling altruism and public service motivation: who exhibits organizational citizenship behaviour?.](ocb.qmd) *Public Management Review*, *22*(7), 949-973.
 
-2.  Piatak, J. S., & **Holt, S. B.** (2020). Prosocial behaviors: A matter of altruism or public service motivation?. *Journal of Public Administration Research and Theory*, *30*(3), 504-518.
+2.  Piatak, J. S., & **Holt, S. B.** (2020). [Prosocial behaviors: A matter of altruism or public service motivation?.](altruism.qmd) *Journal of Public Administration Research and Theory*, *30*(3), 504-518.
 
 3.  Piatak, J. S., & **Holt, S. B.** (2021). *Public service motivation and public opinion: Examining antecedents and attitudes.* Cambridge University Press.
 
@@ -48,4 +48,4 @@ My research to date can be found here and is organized by broad topic and (rough
 
 ### Burdens and Inequality
 
-1.  **Holt, S. B.**, & Vinopal, K. (2021). It's About Time: Examining Inequality in the Time Cost of Waiting. *Working Paper*.
+1.  **Holt, S. B.**, & Vinopal, K. (2021). [It's About Time: Examining Inequality in the Time Cost of Waiting.](waiting.qmd) *Working Paper*.

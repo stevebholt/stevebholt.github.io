@@ -27,9 +27,13 @@ website:
       logo: profile.png
       contents:
         - research.qmd
+        - waiting.qmd
         - grading.qmd
         - referrals.qmd
         - charter.qmd
+        - mentalhealth.qmd
+        - altruism.qmd
+        - ocb.qmd
         - givetime.qmd
         - rookie.qmd
         - prisons.qmd

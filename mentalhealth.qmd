@@ -1,0 +1,13 @@
+---
+title: "Teacher Mental Health"
+---
+
+### Stress Test: Examining the Evolution of Teachers' Mental Health Over Time
+
+#### Abstract
+Teaching is often assumed to be a relatively stressful occupation and occupational stress among teachers has been linked to poor mental health, attrition from the profession, and decreased effectiveness in the classroom. Despite widespread concern about teachers' mental health, however, little empirical evidence exists on long-run trends in teachers' mental health or the prevalence of mental health problems in teaching relative to other professions. We address this gap in the literature using nationally representative data from the 1979 and 1997 cohorts of the National Longitudinal Survey of Youth (NLSY). In the 1979 cohort, women who become teachers have similar mental health to non-teachers prior to teaching but enjoy better mental health than their non-teaching peers, on average, while working as teachers. However, in the 1997 cohort teachers self-report worse mental health, on average, than the 1979 cohort and fare no better than their non-teaching professional peers while teaching. Overall, teachers seem to enjoy mental health outcomes that are as good or better than their peers in other professions.
+
+#### Citation
+Holt, S. B., Wang, R., & Gershenson, S. (2020). Stress Test: Examining the Evolution of Teachers' Mental Health Over Time. *Working Paper*.
+
+[Full Text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3627063)

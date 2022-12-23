@@ -1,0 +1,13 @@
+---
+title: "Waiting Time"
+---
+
+### It’s About Time: Examining Inequality in the Time Cost of Waiting
+
+#### Abstract
+Time spent waiting for services represents unproductive time imposed on individuals trying to fulfill basic needs. While qualitative and ethnographic work has found that income disparities also translate into disparities in time kept waiting for services, little evidence exists to confirm the scale and extent of socioeconomic differences in waiting time. We use time diary data from the nationally representative American Time Use Survey (ATUS) to estimate the difference between high- and low-income people in time spent waiting for basic services. We find that, relative to high-income people, low-income people are 3 percentage-points more likely to spend time waiting on an average day and their waiting spells are 12 minutes longer on average. The income gap in waiting time cannot be explained by differences in family obligations, demographics, education, work time, or travel time. Further, we find that high-income Black people experience the same higher average wait times as low-income people regardless of race. Our results suggest socioeconomic and racial inequalities in neighborhood quality, work schedule flexibility, and access to services exacerbate inequality in daily quality of life and the availability of productive time.
+
+#### Citation
+Holt, S. B., & Vinopal, K. (2021). It's About Time: Examining Inequality in the Time Cost of Waiting. *Working Paper*.
+
+[Full Text](HoltVinopal2021WP.pdf)
