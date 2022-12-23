@@ -1,0 +1,13 @@
+---
+title: "Experience and Representation"
+---
+
+### Rookie Mistakes: The Interplay of Teacher Experience and Racial Representation
+
+#### Abstract
+A growing body of research has documented the important benefits teachers of color bring to students of color, including higher expectations. Separately, researchers have shown that teachers improve student achievement with increasing effectiveness over their careers. We bridge these two streams of research by examining the extent to which teachers’ perceptions of racially dissimilar students vary by experience in the teaching profession. Using nationally representative data, we show that while the expectations gap between non-Black and Black teachers regarding Black students’ academic potential persists regardless of experience, the gap is much larger among first year teachers. We demonstrate that non-Black teachers with more than one year of experience have higher expectations of Black students than non-Black rookie teachers, and perhaps surprisingly, Black teachers with more than one year of experience have lower expectations of Black students compared to rookie Black teachers. We do not find such results for Latino/a students. We discuss the implications of these results for both research and practice.
+
+#### Citation
+Vinopal, K., & Holt, S. B. (2019). Rookie mistakes: The interplay of teacher experience and racial representation. *Educational Researcher*, *48*(7), 421-437.
+
+[Full Text](VinopalHolt2019ER.pdf)

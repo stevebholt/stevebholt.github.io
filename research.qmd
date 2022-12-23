@@ -20,7 +20,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 ### Demographic Representation
 
-1.  Vinopal, K., & **Holt, S. B.** (2019). Rookie mistakes: The interplay of teacher experience and racial representation. *Educational Researcher*, *48*(7), 421-437.
+1.  Vinopal, K., & **Holt, S. B.** (2019). [Rookie mistakes: The interplay of teacher experience and racial representation.](rookie.qmd) *Educational Researcher*, *48*(7), 421-437.
 
 2.  Johnston, J. M., & **Holt, S. B.** (2021). [Examining the influence of representative bureaucracy in public and private prisons.](prisons.qmd) *Policy Studies Journal*, *49*(2), 516-561.
 
@@ -38,7 +38,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 3.  Piatak, J. S., & **Holt, S. B.** (2021). *Public service motivation and public opinion: Examining antecedents and attitudes.* Cambridge University Press.
 
-4.  **Holt, S. B.** (2020). Giving time: Examining sector differences in volunteering intensity. *Journal of Public Administration Research and Theory*, *30*(1), 22-40.
+4.  **Holt, S. B.** (2020). [Giving time: Examining sector differences in volunteering intensity.](givetime.qmd) *Journal of Public Administration Research and Theory*, *30*(1), 22-40.
 
 5.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). [Job mobility among Millennials: Do they stay or do they go?.](millennials.qmd) *Review of Public Personnel Administration*, *41*(2), 219-249.
 
