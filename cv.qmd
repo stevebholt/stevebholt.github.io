@@ -1,5 +1,241 @@
 ---
 title: "Curriculum Vitae"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 [Link to my CV](stevebholt_cv.pdf)
+
+## Research Interests
+
+Representative bureaucracy 📄 Prosocial motivation 📄 Education policy
+📄 Civic behaviors
+
+## Education
+
+*American University*, Washington, D.C. Ph.D., Public Administration,
+2017 Fields: Public Administration, Public Policy, Research Methods
+
+*George Washington University*, Washington, D.C. Master of Public
+Policy, 2012
+
+*University of Florida*, Gainesville, FL B.A., Political Science,
+English, 2009
+
+## Academic Positions
+
+Associate Professor, *University at Albany, State University of New
+York*, Department of Public Administration & Policy, 2017-present
+
+## Professional Research Experience
+
+Research Analyst, Westat, August 2011-August 2013 \* Research design
+team for Early Childhood Longitudinal Study, 2010 cohort. \* Program
+evaluation team for the Ohio Teacher Incentive Fund.
+
+## Publications
+
+### Peer Reviewed Journal Articles
+
+1.  **Holt, Stephen B.** and Katie Vinopal. (Forthcoming). It's About
+    Time: Examining Inequality in the Time Cost of Waiting. *Nature
+    Human Behaviour*. \
+    Media mentions: [The
+    Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
+
+2.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The
+    effects of charter expansion on teacher and student composition at
+    traditional public schools.](charter.qmd) *Economics of Education
+    Review*, *82*, 102095.
+
+3.  **Holt, Stephen B.** and Heasun Choi. (2020). When Knowing is
+    Caring: Examining the Relationship Between Diversity Exposure and
+    PSM. [*Review of Public Personnel
+    Administration*](https://doi.org/10.1177/0734371X20966652)
+
+4.  Piatak, J. S., & **Holt, S. B.** (2020). [Disentangling altruism and
+    public service motivation: who exhibits organizational citizenship
+    behaviour?.](ocb.qmd) *Public Management Review*, *22*(7), 949-973.
+
+5.  Piatak, J. S., & **Holt, S. B.** (2020). [Prosocial behaviors: A
+    matter of altruism or public service motivation?.](altruism.qmd)
+    *Journal of Public Administration Research and Theory*, *30*(3),
+    504-518.
+
+6.  Johnston, J. M., & **Holt, S. B.** (2021). [Examining the influence
+    of representative bureaucracy in public and private
+    prisons.](prisons.qmd) *Policy Studies Journal*, *49*(2), 516-561.
+
+7.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). [Job
+    mobility among Millennials: Do they stay or do they
+    go?.](millennials.qmd) *Review of Public Personnel Administration*,
+    *41*(2), 219-249.
+
+8.  Vinopal, K., & **Holt, S. B.** (2019). [Rookie mistakes: The
+    interplay of teacher experience and racial
+    representation.](rookie.qmd) *Educational Researcher*, *48*(7),
+    421-437.
+
+9.  **Holt, S. B.** (2020). [Giving time: Examining sector differences
+    in volunteering intensity.](givetime.qmd) *Journal of Public
+    Administration Research and Theory*, *30*(1), 22-40.
+
+10. Amirkhanyan, A. A., **Holt, S. B.**, McCrea, A. M., & Meier, K. J.
+    (2019). [Managing racial diversity: Matching internal strategies
+    with environmental needs.](nursinghome.qmd) *Public Administration
+    Review*, *79*(1), 69-81.
+
+11. **Holt, S. B.** (2019). [The influence of high schools on developing
+    public service motivation.](civics.qmd) *International Public
+    Management Journal*, *22*(1), 127-175.
+
+12. **Holt, S. B.** (2018). [For those who care: The effect of public
+    service motivation on sector selection.](sector.qmd) *Public
+    Administration Review*, *78*(3), 457-471.
+
+13. **Holt, S. B.**, & Gershenson, S. (2019). [The impact of demographic
+    representation on absences and suspensions.](absences.qmd) *Policy
+    Studies Journal*, *47*(4), 1069-1099. \
+    Media mentions: [Brookings
+    Institute](https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/02/the-teacher-diversity-gap-is-literally-inherited/)
+
+14. Gershenson, S., **Holt, S. B.**, & Papageorge, N. W. (2016). [Who
+    believes in me? The effect of student--teacher demographic match on
+    teacher expectations.](expectations.qmd) *Economics of Education
+    Review*, *52*, 209-224. \
+    Media mentions:
+    [Vox](https://www.vox.com/policy-and-politics/2015/8/19/9178573/teacher-students-race-study)
+    📰 [Education
+    Week](http://blogs.edweek.org/edweek/inside-school-research/2015/09/racial_mismatch_changes_teache.html?cmp=soc-edit-tw)
+    📰 [Upjohn
+    Institute](http://www.upjohn.org/research-highlights/are-teachers%E2%80%99-expectations-students-systematically-biased)
+    📰 [Washington
+    Post](https://www.washingtonpost.com/news/answer-sheet/wp/2017/04/09/study-black-students-from-poor-families-are-more-likely-to-graduate-high-school-if-they-have-at-least-one-black-teacher/?utm_term=.38baf7bc6467)
+    📰 [New York
+    Times](https://www.nytimes.com/2019/01/15/upshot/the-gender-achievement-gap-starts-later-for-asian-american-students.html)
+    📰
+    [Forbes](https://www.forbes.com/sites/nataliewexler/2018/09/14/why-we-need-a-teacher-workforce-thats-both-diverse-and-knowledgeable/#4f36a3407f3c)
+    📰 [World
+    Bank](https://openknowledge.worldbank.org/handle/10986/29883) 📰
+    [Brookings
+    Institute](https://www.brookings.edu/research/high-hopes-and-harsh-realities-the-real-challenges-to-building-a-diverse-teacher-workforce/)
+
+15. Gershenson, S., & **Holt, S. B.** (2015). [Gender gaps in high
+    school students' homework time.](homework.qmd) *Educational
+    Researcher*, *44*(8), 432-441.
+
+### Under Review
+
+1.  **Holt, S. B.,** Vinopal, K., Choi, H., & Sorensen, L. C. (2022).
+    [Strictly Speaking: Examining Teacher Use of Punishments and Student
+    Outcomes.](referrals.qmd) *Working Paper*.
+
+2.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2022). [Making the
+    Grade: The Effect of Teacher Grading Standards on Student
+    Outcomes.](grading.qmd) *Working Paper*.
+
+3.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). [Stress Test:
+    Examining the Evolution of Teachers' Mental Health Over
+    Time.](mentalhealth.qmd) *Working Paper*.
+
+4.  **Holt, S. B.** and Jaclyn S. Piatak. Attraction or Socialization?
+    Examining the relative effects of sector and public service
+    motivation on prosocial behavior.
+
+### Books
+
+1.  Piatak, J. S., & **Holt, S. B.** (2021). [*Public service motivation
+    and public opinion: Examining antecedents and
+    attitudes.*](https://doi.org/10.1017/9781108966672) Cambridge
+    University Press.
+
+### Book Chapters
+
+1.  **Holt, S. B.** (2022). "Teacher Motivation and Accountability
+    Policy Design." In *The Handbook of Research on Motivation in Public
+    Administration*. Eds. Eds. Randall S. Davis and Edmund C. Stazyk.
+    Edward Elgar Publishing: Cheltenham, UK.
+
+## Honors and Awards
+
+2022 Best Public Sector Human Resources Book Award, American Society for
+Public Administration, Section on Personnel Administration and Labor
+Relations
+
+2018 Finalist for Best Dissertation Award for the Public and Nonprofit
+Division, Academy of Management
+
+2016 Staats Emerging Scholar Award, NASPAA
+
+2016 Neil and Ann Kerwin Doctoral Dissertation Fellowship, American
+University - \$10,000
+
+2016 Charles H. Levine Doctoral Research Award, American University
+
+## Grants
+
+Fall 2020 Spencer Foundation Research Communications Grant Award (with
+Seth Gershenson) - \$15,000 (Awarded Spring 2021)
+
+## Conference Papers
+
+2022: Association for Education Finance and Policy Annual Conference;
+Association for Public Policy Analysis and Management Annual Meeting
+
+2021: Association for Education Finance and Policy Annual Conference
+
+2020: Association for Public Policy Analysis & Management International
+Conference
+
+2019: Association for Education Finance and Policy Annual Conference;
+Public Management Research Association Annual Meeting; Elevating Public
+Service Motivation Conference
+
+2018: American Society for Public Administration Annual Meeting;
+Association for Education Finance and Policy Annual Conference; Midwest
+Political Science Association Annual Conference; International Research
+Society for Public Management Annual Conference; Association for Public
+Policy Analysis & Management International Conference
+
+2017: Association for Budgeting and Financial Management Annual Meeting;
+American Political Science Association Annual Meeting; Public Management
+Research Association Annual Meeting
+
+2016: Association for Public Policy Analysis and Management Annual
+Meeting; American Political Science Association Annual Meeting; Midwest
+Political Science Association Annual Meeting
+
+2015: Association for Public Policy Analysis and Management Annual
+Meeting; American Political Science Association Annual Meeting; National
+Education Finance Conference Annual Meeting
+
+2014: Eastern Economic Association Annual Meeting
+
+## Teaching Experience
+
+### Graduate Courses
+
+Intro. to the Foundations of Public Administration (MPA) (in-person and
+online), University at Albany - SUNY, Fall 2017, Spring 2018, Fall 2018
+(2 sections), Spring 2019, Fall 2019 (Online), Fall 2020 (Online), Fall
+2021 (Online), Spring 2022
+
+Scholarly Foundations of Politics and Administration (Ph.D.), University
+at Albany - SUNY, Spring 2019, Fall 2020, Fall 2021
+
+### Undergraduate Courses
+
+Methodological Tools in Public Policy, University at Albany - SUNY, Fall
+2019, Spring 2020, Spring 2022
+
+Public Administration and Management, University at Albany - SUNY, Fall
+2017
+
+Administrative Politics, American University, Spring 2015
+
+### Doctoral Candidacy Committees
+
+2021-current: Arzana Myderrizi (*member*) 2020-current: Soohyun Park
+(*member*) 2020-current: Jisang Kim (*member*) 2019-current: Haelee Kim
+(*member*) 2018-current: Heasun Choi (*co-chair*)
