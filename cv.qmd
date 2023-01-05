@@ -38,9 +38,9 @@ evaluation team for the Ohio Teacher Incentive Fund.
 
 ### Peer Reviewed Journal Articles
 
-1.  **Holt, Stephen B.** and Katie Vinopal. (Forthcoming). It's About
-    Time: Examining Inequality in the Time Cost of Waiting. *Nature
-    Human Behaviour*.\
+1.  **Holt, S. B.** and Vinopal, K. (Forthcoming). It's About Time:
+    Examining Inequality in the Time Cost of Waiting. *Nature Human
+    Behaviour*.\
     Media mentions: [The
     Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
 
@@ -49,10 +49,10 @@ evaluation team for the Ohio Teacher Incentive Fund.
     traditional public schools.](charter.qmd) *Economics of Education
     Review*, *82*, 102095.
 
-3.  **Holt, Stephen B.** and Heasun Choi. (2020). When Knowing is
-    Caring: Examining the Relationship Between Diversity Exposure and
-    PSM. [*Review of Public Personnel
-    Administration*](https://doi.org/10.1177/0734371X20966652)
+3.  **Holt, S. B.**, & Choi, H. (2020). [When Knowing is Caring:
+    Examining the Relationship Between Diversity Exposure and
+    PSM.](knowyou.qmd) *Review of Public Personnel Administration*,
+    *42*(2), 226-257.
 
 4.  Piatak, J. S., & **Holt, S. B.** (2020). [Disentangling altruism and
     public service motivation: who exhibits organizational citizenship
@@ -236,7 +236,6 @@ Administrative Politics, American University, Spring 2015
 
 ### Doctoral Candidacy Committees
 
-2021-current: Arzana Myderrizi (*member*) 
-2020-current: Soohyun Park (*member*)
-2020-current: Jisang Kim (*member*) 
-2018-current: Heasun Choi (*co-chair*)
+2021-current: Arzana Myderrizi (*member*) 2020-current: Soohyun Park
+(*member*) 2020-current: Jisang Kim (*member*) 2018-current: Heasun Choi
+(*co-chair*)
