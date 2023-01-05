@@ -38,9 +38,9 @@ evaluation team for the Ohio Teacher Incentive Fund.
 
 ### Peer Reviewed Journal Articles
 
-1.  **Holt, S. B.** and Vinopal, K. (Forthcoming). It's About Time:
-    Examining Inequality in the Time Cost of Waiting. *Nature Human
-    Behaviour*.\
+1.  **Holt, S. B.** and Vinopal, K. (Forthcoming). [It's About Time:
+    Examining Inequality in the Time Cost of Waiting.](waiting.qmd)
+    *Nature Human Behaviour*.\
     Media mentions: [The
     Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
 
