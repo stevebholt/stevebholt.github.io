@@ -42,7 +42,7 @@ Research Analyst, Westat, August 2011-August 2013
 ### Peer Reviewed Journal Articles
 
 1.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
-    Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour, 7(4)*,
+    Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*, *7(4)*,
     545-555.\
     Media mentions: [The
     Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
