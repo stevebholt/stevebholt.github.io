@@ -41,10 +41,12 @@ Research Analyst, Westat, August 2011-August 2013
 
 ### Peer Reviewed Journal Articles
 
-1.  **Holt, S. B.** and Vinopal, K. (Forthcoming). [Examining Inequality in the Time Cost of Waiting.](waiting.qmd)
-    *Nature Human Behaviour*.\
+1.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
+    Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour, 7(4)*,
+    545-555.\
     Media mentions: [The
     Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
+    📰 [Bloomberg News](https://www.bloomberg.com/opinion/articles/2023-02-14/waiting-at-the-counter-delays-add-up-by-income-race-and-zip-code) 📰 [The Guardian](https://www.theguardian.com/commentisfree/2023/feb/12/if-the-government-could-only-give-poorer-people-some-more-time) 📰 [New Scientist](https://www.newscientist.com/article/2358744-people-with-low-incomes-spend-longer-waiting-for-basic-services-in-us/) 📰 [The Washington Post](https://www.washingtonpost.com/business/another-sign-of-inequality-minutes-spent-waiting/2023/02/14/4579a0de-ac76-11ed-b0ba-9f4244c6e5da_story.html) 📰 [Vox.com](https://www.vox.com/race/23739082/discrimination-racism-black-people-time-juneteenth)
 
 2.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The
     effects of charter expansion on teacher and student composition at
