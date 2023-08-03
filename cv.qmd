@@ -42,11 +42,20 @@ Research Analyst, Westat, August 2011-August 2013
 ### Peer Reviewed Journal Articles
 
 1.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
-    Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*, *7(4)*,
-    545-555.\
+    Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*,
+    *7(4)*, 545-555.\
     Media mentions: [The
     Economist](https://www.economist.com/united-states/2021/05/08/black-americans-spend-more-of-the-day-being-kept-waiting)
-    📰 [Bloomberg News](https://www.bloomberg.com/opinion/articles/2023-02-14/waiting-at-the-counter-delays-add-up-by-income-race-and-zip-code) 📰 [The Guardian](https://www.theguardian.com/commentisfree/2023/feb/12/if-the-government-could-only-give-poorer-people-some-more-time) 📰 [New Scientist](https://www.newscientist.com/article/2358744-people-with-low-incomes-spend-longer-waiting-for-basic-services-in-us/) 📰 [The Washington Post](https://www.washingtonpost.com/business/another-sign-of-inequality-minutes-spent-waiting/2023/02/14/4579a0de-ac76-11ed-b0ba-9f4244c6e5da_story.html) 📰 [Vox.com](https://www.vox.com/race/23739082/discrimination-racism-black-people-time-juneteenth)
+    📰 [Bloomberg
+    News](https://www.bloomberg.com/opinion/articles/2023-02-14/waiting-at-the-counter-delays-add-up-by-income-race-and-zip-code)
+    📰 [The
+    Guardian](https://www.theguardian.com/commentisfree/2023/feb/12/if-the-government-could-only-give-poorer-people-some-more-time)
+    📰 [New
+    Scientist](https://www.newscientist.com/article/2358744-people-with-low-incomes-spend-longer-waiting-for-basic-services-in-us/)
+    📰 [The Washington
+    Post](https://www.washingtonpost.com/business/another-sign-of-inequality-minutes-spent-waiting/2023/02/14/4579a0de-ac76-11ed-b0ba-9f4244c6e5da_story.html)
+    📰
+    [Vox.com](https://www.vox.com/race/23739082/discrimination-racism-black-people-time-juneteenth)
 
 2.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The
     effects of charter expansion on teacher and student composition at
@@ -221,25 +230,23 @@ Education Finance Conference Annual Meeting
 ### Graduate Courses
 
 Intro. to the Foundations of Public Administration (MPA) (in-person and
-online), University at Albany - SUNY, Fall 2017, Spring 2018, Fall 2018
-(2 sections), Spring 2019, Fall 2019 (Online), Fall 2020 (Online), Fall
-2021 (Online), Spring 2022
+online), University at Albany, SUNY - Graduate-level survey course of
+basic concepts and issues in managing public programs and agencies. [Course site](https://stevebholt.github.io/rpad500/)
 
 Scholarly Foundations of Politics and Administration (Ph.D.), University
-at Albany - SUNY, Spring 2019, Fall 2020, Fall 2021
+at Albany, SUNY - Doctoral-level course that surveys the intellectual history of theories about democracy, organizations, and the intersection of the two. [Course site](https://stevebholt.github.io/rpad702/)
 
 ### Undergraduate Courses
 
-Methodological Tools in Public Policy, University at Albany - SUNY, Fall
-2019, Spring 2020, Spring 2022
+Methodological Tools in Public Policy, University at Albany, SUNY - Undergraduate-level introductory course for statistics and basic concepts in data collection. [Course site](https://stevebholt.github.io/rpad316/)
 
-Public Administration and Management, University at Albany - SUNY, Fall
-2017
+Public Administration and Management, University at Albany, SUNY - Undergraduate level survey of public administration and public management concepts.
 
-Administrative Politics, American University, Spring 2015
+Administrative Politics, American University - Undergraduate level survey of public administration and public management concepts.
 
 ### Doctoral Candidacy Committees
 
+2022-current: Ji Hyun Byeon (*chair*)\
 2021-current: Arzana Myderrizi (*member*)\
 2020-current: Soohyun Park (*member*)\
 2020-current: Jisang Kim (*member*)\
