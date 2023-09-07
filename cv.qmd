@@ -88,7 +88,9 @@ Research Analyst, Westat, August 2011-August 2013
 8.  Vinopal, K., & **Holt, S. B.** (2019). [Rookie mistakes: The
     interplay of teacher experience and racial
     representation.](rookie.qmd) *Educational Researcher*, *48*(7),
-    421-437.
+    421-437.\
+    Media mentions:
+    [Brookings Institute](https://www.brookings.edu/articles/it-matters-now-more-than-ever-what-new-developments-say-about-teacher-diversity-and-student-success/)
 
 9.  **Holt, S. B.** (2020). [Giving time: Examining sector differences
     in volunteering intensity.](givetime.qmd) *Journal of Public
@@ -146,7 +148,9 @@ Research Analyst, Westat, August 2011-August 2013
 
 2.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2022). [Making the
     Grade: The Effect of Teacher Grading Standards on Student
-    Outcomes.](grading.qmd) *Working Paper*.
+    Outcomes.](grading.qmd) *Working Paper*.\
+    Media mentions:
+    [Forbes](https://www.forbes.com/sites/frederickhess/2023/09/05/grade-inflation-is-not-a-victimless-crime/?sh=5e7ebec517b2)
 
 3.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). [Stress Test:
     Examining the Evolution of Teachers' Mental Health Over
