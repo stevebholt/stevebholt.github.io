@@ -10,7 +10,7 @@ My teaching is summarized here. I teach courses in public administration and sta
 
 **Last taught:** Spring 2022
 
-This course introduces basic statistics in public sector research and public policy decisionmaking. The emphasis is on exploration of data processing techniques as they relate to statistical analysis and on understanding the proper application of statistics. The objective of this course is to empower students with the capability to critically analyze and understand statistical information. Students will learn how to design a quantitative research, how to do descriptive statistics, and how to conduct inferences based on given data. Upon completion of this course, students should be able to think critically about data, to use graphical and numerical summaries, to apply standard statistical inference procedures, and to draw conclusions from analyses.
+This course introduces basic statistics in public sector research and public policy decision-making. The emphasis is on exploration of data processing techniques as they relate to statistical analysis and on understanding the proper application of statistics. The objective of this course is to empower students with the capability to critically analyze and understand statistical information. Students will learn how to design a quantitative research, how to do descriptive statistics, and how to conduct inferences based on given data. Upon completion of this course, students should be able to think critically about data, to use graphical and numerical summaries, to apply standard statistical inference procedures, and to draw conclusions from analyses.
 
 [Example Syllabus](PAD_316_S20_Syllabus.pdf) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad316/)
 
@@ -18,7 +18,7 @@ This course introduces basic statistics in public sector research and public pol
 
 **Last taught:** Fall 2022 (Online), Spring 2022 (in-person)
 
-This course is designed to provide students an introduction to the eld of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly dened by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
+This course is designed to provide students an introduction to the field of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly defined by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
 
 [Example Syllabus](PAD500_S22_syllabus.pdf) 👨‍🏫 [Example Online Syllabus](PAD500_online_syllabus.pdf) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad500/)
 
