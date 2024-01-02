@@ -41,7 +41,18 @@ Research Analyst, Westat, August 2011-August 2013
 
 ### Peer Reviewed Journal Articles
 
-1.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
+1.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2023). [Making the
+    Grade: The Effect of Teacher Grading Standards on Student
+    Outcomes.](grading.qmd) *Contemporary Economic Policy*.\
+    Media mentions:
+    [Forbes](https://www.forbes.com/sites/frederickhess/2023/09/05/grade-inflation-is-not-a-victimless-crime/?sh=5e7ebec517b2)
+
+2.  **Holt, S. B.** and Jaclyn S. Piatak. (2023). Attraction or
+    Socialization? Examining the relative effects of sector and public
+    service motivation on prosocial behavior. *Public Management
+    Review*.
+
+3.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
     Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*,
     *7(4)*, 545-555.\
     Media mentions: [The
@@ -57,65 +68,65 @@ Research Analyst, Westat, August 2011-August 2013
     📰
     [Vox.com](https://www.vox.com/race/23739082/discrimination-racism-black-people-time-juneteenth)
 
-2.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The
+4.  Sorensen, L. C., & **Holt, S. B.** (2021). [Sorting it out: The
     effects of charter expansion on teacher and student composition at
     traditional public schools.](charter.qmd) *Economics of Education
     Review*, *82*, 102095.
 
-3.  **Holt, S. B.**, & Choi, H. (2020). [When Knowing is Caring:
+5.  **Holt, S. B.**, & Choi, H. (2020). [When Knowing is Caring:
     Examining the Relationship Between Diversity Exposure and
     PSM.](knowyou.qmd) *Review of Public Personnel Administration*,
     *42*(2), 226-257.
 
-4.  Piatak, J. S., & **Holt, S. B.** (2020). [Disentangling altruism and
+6.  Piatak, J. S., & **Holt, S. B.** (2020). [Disentangling altruism and
     public service motivation: who exhibits organizational citizenship
     behaviour?.](ocb.qmd) *Public Management Review*, *22*(7), 949-973.
 
-5.  Piatak, J. S., & **Holt, S. B.** (2020). [Prosocial behaviors: A
+7.  Piatak, J. S., & **Holt, S. B.** (2020). [Prosocial behaviors: A
     matter of altruism or public service motivation?.](altruism.qmd)
     *Journal of Public Administration Research and Theory*, *30*(3),
     504-518.
 
-6.  Johnston, J. M., & **Holt, S. B.** (2021). [Examining the influence
+8.  Johnston, J. M., & **Holt, S. B.** (2021). [Examining the influence
     of representative bureaucracy in public and private
     prisons.](prisons.qmd) *Policy Studies Journal*, *49*(2), 516-561.
 
-7.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). [Job
+9.  AbouAssi, K., McGinnis Johnson, J., & **Holt, S. B.** (2021). [Job
     mobility among Millennials: Do they stay or do they
     go?.](millennials.qmd) *Review of Public Personnel Administration*,
     *41*(2), 219-249.
 
-8.  Vinopal, K., & **Holt, S. B.** (2019). [Rookie mistakes: The
+10. Vinopal, K., & **Holt, S. B.** (2019). [Rookie mistakes: The
     interplay of teacher experience and racial
     representation.](rookie.qmd) *Educational Researcher*, *48*(7),
     421-437.\
-    Media mentions:
-    [Brookings Institute](https://www.brookings.edu/articles/it-matters-now-more-than-ever-what-new-developments-say-about-teacher-diversity-and-student-success/)
+    Media mentions: [Brookings
+    Institute](https://www.brookings.edu/articles/it-matters-now-more-than-ever-what-new-developments-say-about-teacher-diversity-and-student-success/)
 
-9.  **Holt, S. B.** (2020). [Giving time: Examining sector differences
+11. **Holt, S. B.** (2020). [Giving time: Examining sector differences
     in volunteering intensity.](givetime.qmd) *Journal of Public
     Administration Research and Theory*, *30*(1), 22-40.
 
-10. Amirkhanyan, A. A., **Holt, S. B.**, McCrea, A. M., & Meier, K. J.
+12. Amirkhanyan, A. A., **Holt, S. B.**, McCrea, A. M., & Meier, K. J.
     (2019). [Managing racial diversity: Matching internal strategies
     with environmental needs.](nursinghome.qmd) *Public Administration
     Review*, *79*(1), 69-81.
 
-11. **Holt, S. B.** (2019). [The influence of high schools on developing
+13. **Holt, S. B.** (2019). [The influence of high schools on developing
     public service motivation.](civics.qmd) *International Public
     Management Journal*, *22*(1), 127-175.
 
-12. **Holt, S. B.** (2018). [For those who care: The effect of public
+14. **Holt, S. B.** (2018). [For those who care: The effect of public
     service motivation on sector selection.](sector.qmd) *Public
     Administration Review*, *78*(3), 457-471.
 
-13. **Holt, S. B.**, & Gershenson, S. (2019). [The impact of demographic
+15. **Holt, S. B.**, & Gershenson, S. (2019). [The impact of demographic
     representation on absences and suspensions.](absences.qmd) *Policy
     Studies Journal*, *47*(4), 1069-1099.\
     Media mentions: [Brookings
     Institute](https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/02/the-teacher-diversity-gap-is-literally-inherited/)
 
-14. Gershenson, S., **Holt, S. B.**, & Papageorge, N. W. (2016). [Who
+16. Gershenson, S., **Holt, S. B.**, & Papageorge, N. W. (2016). [Who
     believes in me? The effect of student--teacher demographic match on
     teacher expectations.](expectations.qmd) *Economics of Education
     Review*, *52*, 209-224.\
@@ -136,7 +147,7 @@ Research Analyst, Westat, August 2011-August 2013
     [Brookings
     Institute](https://www.brookings.edu/research/high-hopes-and-harsh-realities-the-real-challenges-to-building-a-diverse-teacher-workforce/)
 
-15. Gershenson, S., & **Holt, S. B.** (2015). [Gender gaps in high
+17. Gershenson, S., & **Holt, S. B.** (2015). [Gender gaps in high
     school students' homework time.](homework.qmd) *Educational
     Researcher*, *44*(8), 432-441.
 
@@ -146,19 +157,9 @@ Research Analyst, Westat, August 2011-August 2013
     [Strictly Speaking: Examining Teacher Use of Punishments and Student
     Outcomes.](referrals.qmd) *Working Paper*.
 
-2.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2022). [Making the
-    Grade: The Effect of Teacher Grading Standards on Student
-    Outcomes.](grading.qmd) *Working Paper*.\
-    Media mentions:
-    [Forbes](https://www.forbes.com/sites/frederickhess/2023/09/05/grade-inflation-is-not-a-victimless-crime/?sh=5e7ebec517b2)
-
-3.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). [Stress Test:
+2.  **Holt, S. B.**, Wang, R., & Gershenson, S. (2020). [Stress Test:
     Examining the Evolution of Teachers' Mental Health Over
     Time.](mentalhealth.qmd) *Working Paper*.
-
-4.  **Holt, S. B.** and Jaclyn S. Piatak. Attraction or Socialization?
-    Examining the relative effects of sector and public service
-    motivation on prosocial behavior.
 
 ### Books
 
