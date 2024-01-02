@@ -8,7 +8,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 1.  **Holt, S. B.,** Vinopal, K., Choi, H., & Sorensen, L. C. (2022). [Strictly Speaking: Examining Teacher Use of Punishments and Student Outcomes.](referrals.qmd) *Working Paper*.
 
-2.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2022). [Making the Grade: The Effect of Teacher Grading Standards on Student Outcomes.](grading.qmd) *Working Paper*.
+2.  Gershenson, S., **Holt, S. B.**, & Tyner, A. (2023). [Making the Grade: The Effect of Teacher Grading Standards on Student Outcomes.](grading.qmd) *Contemporary Economic Policy*.
 
 3.  **Holt, S. B.** (2022). For the children? Teachers motivation and systems for recruitment, retention, and evaluation. In *Research Handbook on Motivation in Public Administration*. Edward Elgar Publishing.
 

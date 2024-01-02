@@ -5,10 +5,11 @@ title: "Grading Standards"
 ### Making the Grade: The Effect of Teacher Grading Standards on Student Outcomes
 
 #### Abstract
-Teachers are among the most important inputs in the education production function. One mechanism by which teachers might affect student learning is through the grading standards they set for their classrooms. However, the effects of grading standards on
-student outcomes are relatively understudied. Using administrative data that links individual students and teachers in 8th and 9th grade Algebra I classrooms from 2006 to 2016, we examine the effects of teachers’ grading standards on student learning and attendance. High teacher grading standards in Algebra I increase student learning both in Algebra I and in subsequent math classes. The effect on student achievement is positive and similar in size across student characteristics and levels of ability, students’ relative rank within the classroom, and school context. High teacher grading standards also lead to a modest reduction in student absences.
+
+Teachers are among the most important inputs in the education production function. One mechanism by which teachers might affect student learning is through the grading standards they set for their classrooms. However, the effects of grading standards on student outcomes are relatively understudied. Using administrative data that links individual students and teachers in 8th and 9th grade Algebra I classrooms from 2006 to 2016, we examine the effects of teachers’ grading standards on student learning and attendance. High teacher grading standards in Algebra I increase student learning both in Algebra I and in subsequent math classes. The effect on student achievement is positive and similar in size across student characteristics and levels of ability, students’ relative rank within the classroom, and school context. High teacher grading standards also lead to a modest reduction in student absences.
 
 #### Citation
-Gershenson, S., Holt, S. B., & Tyner, A. (2022). Making the Grade: The Effect of Teacher Grading Standards on Student Outcomes. *Working Paper*.
 
-[Full Text](GershensonHoltTyner2022GradingStandards.pdf)
+Gershenson, S., Holt, S. B., & Tyner, A. (2023). Making the Grade: The Effect of Teacher Grading Standards on Student Outcomes. *Contemporary Economic Policy*.
+
+[Full Text](GershensonHoltTyner2023CEP.pdf)
