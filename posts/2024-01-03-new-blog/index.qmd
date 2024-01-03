@@ -1,0 +1,12 @@
+---
+title: "Introduction of Blog"
+description: "Just introducing the blog and it's purpose"
+author:
+  - name: Stephen B. Holt
+    orcid: 0000-0002-9162-661X
+    affiliation: Rockefeller College of Public Affairs and Policy @ University at Albany, SUNY
+date: 01-03-2024
+categories: [General]
+draft: true
+---
+
