@@ -1,12 +1,24 @@
 ---
 title: "Introduction of Blog"
-description: "Just introducing the blog and it's purpose"
+description: "Just introducing the blog and its purpose"
 author:
   - name: Stephen B. Holt
     orcid: 0000-0002-9162-661X
     affiliation: Rockefeller College of Public Affairs and Policy @ University at Albany, SUNY
 date: 01-03-2024
 categories: [General]
-draft: true
+draft: false
 ---
+
+Welcome to my blog! If you're reading this, it's likely that you found your way here through a professional network or social media and likely know the generics about me. Just in case, the short version is that I am an Associate Professor of Public Management at the University at Albany, SUNY. While my research interests are quite broad, they focus mostly around the front-line workers that deliver public services. Who are they? How do they impact the efficacy of public services? How do they alter (or contribute to) the various forms of inequality that persist in our society? And, importantly, how do we measure this stuff? While I'm not an economist, I generally bring the tools of applied microeconomics (econometrics and, at times, theory) to my attempts to answer parts of these broad questions. As is common in studying the management of public organizations, I also draw on sociology and political science in my work.
+
+Outside of work, I am a pretty passionate board game enthusiast, recreational soccer player, hiker, and basketball fan.
+
+So. What's the point of this blog? Well, there are three main goals I have here. First, in my professional life, I often advise doctoral students and, increasingly, early career researchers in matters of both navigating academia and the process and craft of research. As anyone who has done such advising knows, there are a wide range of norms and practices that are somewhat informal, not widely known outside of academia, and/or learned through lots of (frustrating) trial and error. I will occasionally use this blog to share some things I've picked up along the way in navigating an academic career. Over time I will populate this with posts on how to think about putting together an academic CV, how to approach conferences and conference talks, job talk advice, and a variety of other things that I think are helpful for navigating professional life as an academic but don't often formally find their way into a curriculum.
+
+A second bucket of content will likely be experimentation with new methods and public-facing summaries of my research. I often learn a topic or method of analysis more deeply when I sit down and try to organize my thoughts into written words that someone else might try to read and understand. Thus, as I try to teach myself new developments in causal inference, I will collect notes and write them out into a post here as a kind of public learning exercise. Obviously, I might make mistakes, and that's okay. Hopefully some kind soul reading and noticing any errors will raise them to me and I can correct them. But I have benefited greatly from others who have sat down and created publicly available repositories of things like code, explainers, and course materials and hope to pay it forward with some public goods of my own.
+
+Finally, the last bucket of content and purpose of this blog will be things I have a personal interest in - from local and state government issues to board games to popular culture, all are potential topics for blog posts. I think public-facing writing takes a different set of skills from academic writing and would like to develop my skills in general audience writing with a little low-stakes blogging. Toward that end, please forgive any errors or amateurishness - I am trying!
+
+With all of that said, most posts will be sent out into the social media realm on BlueSky, Threads, and (for now) Twitter. I can be found at all three under the handle @SteveBHolt. Stay tuned!
 
