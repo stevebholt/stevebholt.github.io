@@ -49,8 +49,9 @@ Research Analyst, Westat, August 2011-August 2013
 
 2.  **Holt, S. B.** and Jaclyn S. Piatak. (2023). [Attraction or
     Socialization? Examining the relative effects of sector and public
-    service motivation on prosocial behavior.](https://doi.org/10.1080/14719037.2023.2291806) *Public Management
-    Review*.
+    service motivation on prosocial
+    behavior.](https://doi.org/10.1080/14719037.2023.2291806) *Public
+    Management Review*.
 
 3.  **Holt, S. B.** and Vinopal, K. (2023). [Examining Inequality in the
     Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*,
@@ -161,6 +162,8 @@ Research Analyst, Westat, August 2011-August 2013
     Examining the Evolution of Teachers' Mental Health Over
     Time.](mentalhealth.qmd) *Working Paper*.
 
+3.  Sorensen, L. C., Headley, A., & **Holt, S.B.** (2023). [On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?](https://edworkingpapers.com/sites/default/files/ai24-907.pdf) *Working Paper*.
+
 ### Books
 
 1.  Piatak, J. S., & **Holt, S. B.** (2021). [*Public service motivation
@@ -238,6 +241,10 @@ Education Finance Conference Annual Meeting
 
 ### Graduate Courses
 
+Data, Models, and Decisions (MPA) (in-person), University at Albany, SUNY - Graduate-level introduction to data analysis, visualization, and reporting. [Course site](https://stevebholt.github.io/rpad504/)
+
+Integrative Capston (MPA) (online), University at Albany, SUNY - Graduate-level capstone research project that applies all competencies targeted in the MPA program. [Course site](https://stevebholt.github.io/rpad696)
+
 Intro. to the Foundations of Public Administration (MPA) (in-person and
 online), University at Albany, SUNY - Graduate-level survey course of
 basic concepts and issues in managing public programs and agencies.
@@ -265,7 +272,7 @@ survey of public administration and public management concepts.
 ### Doctoral Candidacy Committees
 
 2022-current: Ji Hyun Byeon (*chair*)\
-2021-current: Arzana Myderrizi (*member*)\
-2020-current: Soohyun Park (*member*)\
-2020-current: Jisang Kim (*member*)\
-2018-current: Heasun Choi (*co-chair*)
+2022-current: Seunghwa Kim (*member*)\
+2022-current: Miyeun Jung (*member*)\
+2021-2023: Arzana Myderrizi (*member*)\
+2018-2023: Heasun Choi (*co-chair*)
