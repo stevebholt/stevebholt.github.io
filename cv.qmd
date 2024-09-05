@@ -243,7 +243,7 @@ Education Finance Conference Annual Meeting
 
 Data, Models, and Decisions (MPA) (in-person), University at Albany, SUNY - Graduate-level introduction to data analysis, visualization, and reporting. [Course site](https://stevebholt.github.io/rpad504/)
 
-Integrative Capston (MPA) (online), University at Albany, SUNY - Graduate-level capstone research project that applies all competencies targeted in the MPA program. [Course site](https://stevebholt.github.io/rpad696)
+Integrative Capston (MPA) (online), University at Albany, SUNY - Graduate-level capstone research project that applies all competencies targeted in the MPA program. [Course site](https://stevebholt.github.io/rpad696/)
 
 Intro. to the Foundations of Public Administration (MPA) (in-person and
 online), University at Albany, SUNY - Graduate-level survey course of
