@@ -29,6 +29,7 @@ website:
       contents:
         - research.qmd
         - waiting.qmd
+        - edjuvenile.qmd
         - grading.qmd
         - referrals.qmd
         - charter.qmd
