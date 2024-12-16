@@ -6,30 +6,22 @@ My teaching is summarized here. I teach courses in public administration and sta
 
 ## Classes Taught Regularly
 
-### Methodological Tools for Public Policy (RPAD 316)
+### Data, Models, and Decisions (RPAD 504)
 
-**Last taught:** Spring 2022
+**Last taught:** Fall 2024
 
-This course introduces basic statistics in public sector research and public policy decision-making. The emphasis is on exploration of data processing techniques as they relate to statistical analysis and on understanding the proper application of statistics. The objective of this course is to empower students with the capability to critically analyze and understand statistical information. Students will learn how to design a quantitative research, how to do descriptive statistics, and how to conduct inferences based on given data. Upon completion of this course, students should be able to think critically about data, to use graphical and numerical summaries, to apply standard statistical inference procedures, and to draw conclusions from analyses.
+This course serves as a core course in the Master of Public Administration degree program at the University at Albany, SUNY. The course introduces students to issues related to collecting, storing, and analyzing data, working with public data, and working with statistical software to conduct and share descriptive statistical analyses. The course is taught in Stata and R.
 
-[Example Syllabus](PAD_316_S20_Syllabus.pdf) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad316/)
+[Example Syllabus](https://stevebholt.github.io/rpad504/syllabus504.html) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad504/)
 
-### Foundations of Public Administration (RPAD 500)
+### Master of Public Administration Capstone (RPAD 696)
 
-**Last taught:** Fall 2022 (Online), Spring 2022 (in-person)
+**Last taught:** Fall 2024
 
-This course is designed to provide students an introduction to the field of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly defined by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
+This course is designed to assess students' application of the skills and knowledge gained over the course of their time in the Master of Public Administration program at the University at Albany, SUNY through a semester long research project on complex, contemporary policy and governance issues at the federal, state, or local level. 
 
-[Example Syllabus](PAD500_S22_syllabus.pdf) 👨‍🏫 [Example Online Syllabus](PAD500_online_syllabus.pdf) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad500/)
-
-### Scholarly Foundations of Politics and Administration (RPAD 702)
-
-**Last taught:** Fall 2021
-
-This course explores the complex interplay between democracy, politics, and administration in the United States. Our aim is to begin developing an understanding of the contemporary role public organizations play in the political process and broader democratic context. To this end, we will examine the major intellectual and constitutional origins and subsequent evolution of American government and public administration. We will also explore various theories that (1) inform our understanding of the roles and responsibilities of modern public organizations and administrators, and (2) explain current governance arrangements.
-
-[Example Syllabus](PAD702_Fall21_Syllabus.pdf)
+[Example Syllabus](https://stevebholt.github.io/rpad696/syllabus696.html) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad696/)
 
 ## Other Classes
 
-In addition to the set of classes I teach regularly, I have prepared and taught undergraduate classes on [research design and introductory causal inference](https://stevebholt.github.io/rpad399/), undergraduate courses on public administration, and a [doctoral professional development seminar](https://stevebholt.github.io/rpad88x/).
+In addition to the set of classes I teach regularly, I have prepared and taught undergraduate classes on [introductory statistics](https://stevebholt.github.io/rpad316/) and [research design and introductory causal inference](https://stevebholt.github.io/rpad399/), undergraduate courses on public administration, a doctoral seminar on [theories of democracy and public administration](https://stevebholt.github.io/rpad702/), and a [doctoral professional development seminar](https://stevebholt.github.io/rpad88x/). I have also taught a Master's-level [introduction to public administration](https://stevebholt.github.io/rpad500/) both asynchronously online and in-person.
