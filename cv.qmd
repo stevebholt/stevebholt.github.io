@@ -162,7 +162,11 @@ Research Analyst, Westat, August 2011-August 2013
     Examining the Evolution of Teachers' Mental Health Over
     Time.](mentalhealth.qmd) *Working Paper*.
 
-3.  Sorensen, L. C., Headley, A., & **Holt, S.B.** (2023). [On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?](https://edworkingpapers.com/sites/default/files/ai24-907.pdf) *Working Paper*.
+3.  Sorensen, L. C., Headley, A., & **Holt, S.B.** (2023). [On the
+    Margin: Who Receives a Juvenile Referral in School and What Effect
+    Does It
+    Have?](https://edworkingpapers.com/sites/default/files/ai24-907.pdf)
+    *Working Paper*.
 
 ### Books
 
@@ -241,9 +245,14 @@ Education Finance Conference Annual Meeting
 
 ### Graduate Courses
 
-Data, Models, and Decisions (MPA) (in-person), University at Albany, SUNY - Graduate-level introduction to data analysis, visualization, and reporting. [Course site](https://stevebholt.github.io/rpad504/)
+Data, Models, and Decisions (MPA) (in-person), University at Albany,
+SUNY - Graduate-level introduction to data analysis, visualization, and
+reporting. [Course site](https://stevebholt.github.io/rpad504/)
 
-Integrative Capston (MPA) (online), University at Albany, SUNY - Graduate-level capstone research project that applies all competencies targeted in the MPA program. [Course site](https://stevebholt.github.io/rpad696/)
+Integrative Capston (MPA) (online), University at Albany, SUNY -
+Graduate-level capstone research project that applies all competencies
+targeted in the MPA program. [Course
+site](https://stevebholt.github.io/rpad696/)
 
 Intro. to the Foundations of Public Administration (MPA) (in-person and
 online), University at Albany, SUNY - Graduate-level survey course of
