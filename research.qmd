@@ -18,7 +18,7 @@ My research to date can be found here and is organized by broad topic and (rough
 
 6.  Gershenson, S., & **Holt, S. B.** (2015). [Gender gaps in high school students' homework time.](homework.qmd) *Educational Researcher*, *44*(8), 432-441.
 
-7.  Sorensen, L. C., Headley, A., & Holt, S. B. (2024) [On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?](edjuvenile.qmd). *EdWorkingPaper: 24-907*.
+7.  Sorensen, L. C., Headley, A., & Holt, S. B. (2024) [On the Margin: Who Receives a Juvenile Referral in School and What Effect Does It Have?](edjuvenile.qmd). *Journal of Policy Analysis and Management, 44*, 1171–1193.
 
 ### Demographic Representation
 
