@@ -1,0 +1,13 @@
+---
+title: "Child Labor - Attendance"
+---
+
+### Contemporary Child Labor and Declining School Attendance in the U.S.
+
+### Abstract
+The United States has experienced a 400% increase in reported child labor violations over the past decade, coinciding with declines in K-12 school attendance and enrollment. We examine the causal relationships between these patterns with microdata from the American Community Survey (ACS) from 2005 to 2023. Using a shift-share instrumental variable approach, our findings show that increased local demand for illegal child labor leads to higher youth employment in high-violation industries, longer work hours, and lower school attendance, particularly among Black youth and youth living on farms. A 10-percentage-point increase in the local share of employment in high child labor violation industries leads to a 7-percentage-point decline in public school attendance for children and youth aged 6 to 17. Results underscore the need to reevaluate labor protections and strengthen enforcement to prevent economic pressures from pulling vulnerable, young students away from school.
+
+### Citation
+Sorensen, Lucy C., Melissa Arnold Lyon, Ji Hyun Byeon, and Stephen B. Holt. (2025). Contemporary Child Labor and Declining School Attendance in the U.S.. (EdWorkingPaper: 25-1302). Retrieved from Annenberg Institute at Brown University: [https://doi.org/10.26300/hbcw-xc84](https://doi.org/10.26300/hbcw-xc84)
+
+[Full Text](SorensenLyonByeonHolt2025.pdf)
