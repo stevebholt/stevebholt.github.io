@@ -53,3 +53,7 @@ My research to date can be found here and is organized by broad topic and (rough
 ### Burdens and Inequality
 
 1.  **Holt, S. B.**, & Vinopal, K. (2023). [Examining Inequality in the Time Cost of Waiting.](waiting.qmd) *Nature Human Behaviour*, *7*(4), 545-555.
+
+### Child Labor Laws
+
+1. Sorensen, L.C., Lyon, M.A., Byeon, J.H., & **Holt, S.B.** (2025). [Contemporary Child Labor and Declining School Attendance in the U.S.](childlaboriv.qmd). *Working Paper*.
