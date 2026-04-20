@@ -40,6 +40,9 @@ Selecting classes in Rockefeller is the primary time you will be consulting me. 
 Outside of the occasional circumstance regarding an elective choice, you generally do not need to meet with me unless you really find yourself lost and in need of clarification. Students often feel obligated to request meetings, which slows down your registration process given scheduling conflicts, so I note this simply to underscore that there is no obligation for you to meet with me in this scheduling process if *you* don't really need it.
 :::
 
+## Internship Requirement
+The internship requirement can be met with 350 hours at approved internships over the course of your time in the program. A relevant job can be used as a substitute through an approved waiver - for this, you will want to be in touch with Dyana Warnock and the MPA director.
+
 # Common Paths
 
 In this section, I go over some common paths through the program for students interested in public management or public policy concentrations (the students I most frequently advise). We have recently overhauled the MPA curriculum in a way that intends for students to be able to take electives earlier in their time at Rockefeller without necessarily completing the core in a strictly linear fashion.
@@ -56,11 +59,11 @@ The general way to understand the MPA program is 8 core courses for generalized 
 
 [^1]: Of course, there is no such thing as a truly wasted class as all knowledge, growth, and experience has intrinsic value, particularly when creatively applied :).
 
-| Semester      | Approach 1                       | Approach 2                                                                               | Approach 3                       |
+| Semester | Approach 1 | Approach 2 | Approach 3 |
 |------------------|------------------|------------------|------------------|
-| First         | RPAD 500, RPAD 504, Elective 1   | RPAD 500, RPAD 503, RPAD 505                                                             | RPAD 500, RPAD 501, RPAD 504     |
-| Second        | RPAD 502, RPAD 505, Elective 2   | (if Policy) RPAD 504, RPAD 522, RPAD 643; (if Management) RPAD 505, RPAD 610, Elective 2 | RPAD 503, RPAD 505, Elective 1   |
-| Going Forward | 2 cores, 1 elective per semester | 2 cores, 1 elective per semester                                                         | 2 electives, 1 core per semester |
+| First | RPAD 500, RPAD 504, Elective 1 | RPAD 500, RPAD 503, RPAD 505 | RPAD 500, RPAD 501, RPAD 504 |
+| Second | RPAD 502, RPAD 505, Elective 2 | (if Policy) RPAD 504, RPAD 522, RPAD 643; (if Management) RPAD 505, RPAD 610, Elective 2 | RPAD 503, RPAD 505, Elective 1 |
+| Going Forward | 2 cores, 1 elective per semester | 2 cores, 1 elective per semester | 2 electives, 1 core per semester |
 
 ::: callout-important
 A subtlety many students might not pickup on is that core classes are, by necessity, offered on a guaranteed and frequent schedule, while electives have a less guaranteed schedule in their cycling and offerings. While many of the electives offered in Rockefeller are cycled annually, some are cycled biennially. The unpredictability of scheduling becomes even more severe when considering electives operated by another department. Exploit the timing and scheduling flexibility to take an elective you **really** want to take the semester it's offered because you don't know if/when it will be offered again!
@@ -82,12 +85,12 @@ This leaves you with one elective to explore other topics or areas of interest t
 
 A good example plan:
 
-| Semester | Classes                                                         |
-|--------------------------------------|----------------------------------|
-| First    | RPAD 500, RPAD 504, RPAD 532/615/572 (pending availability)  |
+| Semester | Classes                                                     |
+|----------|-------------------------------------------------------------|
+| First    | RPAD 500, RPAD 504, RPAD 532/615/572 (pending availability) |
 | Second   | RPAD 502, RPAD 501, RPAD 532/615/572 (pending availability) |
 | Third    | RPAD 506, RPAD 505, RPAD 532/615/572 (whichever not taken)  |
-| Fourth   | RPAD 503, RPAD 696, RPAD 626 OR Policy Topic Elective           |
+| Fourth   | RPAD 503, RPAD 696, RPAD 626 OR Policy Topic Elective       |
 
 ## Public Policy
 
@@ -104,6 +107,6 @@ A good example plan:
 | Semester | Classes                                               |
 |----------|-------------------------------------------------------|
 | First    | RPAD 500, RPAD 503, RPAD 505                          |
-| Second   | RPAD 504, RPAD 643 or 540, RPAD 522                          |
+| Second   | RPAD 504, RPAD 643 or 540, RPAD 522                   |
 | Third    | RPAD 501, RPAD 502, RPAD 626                          |
 | Fourth   | RPAD 506, RPAD 696, Policy Topic Elective OR RPAD 517 |
