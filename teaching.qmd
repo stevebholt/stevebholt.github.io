@@ -6,9 +6,17 @@ My teaching is summarized here. I teach courses in public administration and sta
 
 ## Classes Taught Regularly
 
+### Quantitative Methods of Causal Inference (RPAD 725)
+
+**Last taught:** Fall 2026
+
+Methods of Causal Inference focuses on commonly used research designs and estimation methods for identifying the causal effects of interventions. The course is a core course in the Ph.D. in Public Administration and Policy program and the coming Master of Science in Public Policy program. The course is taught in Stata and R. 
+
+[Example Syllabus](https://stevebholt.github.io/rpad725/syllabus725.html) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad725/)
+
 ### Data, Models, and Decisions (RPAD 504)
 
-**Last taught:** Fall 2024
+**Last taught:** Spring 2026
 
 This course serves as a core course in the Master of Public Administration degree program at the University at Albany, SUNY. The course introduces students to issues related to collecting, storing, and analyzing data, working with public data, and working with statistical software to conduct and share descriptive statistical analyses. The course is taught in Stata and R.
 
@@ -16,9 +24,9 @@ This course serves as a core course in the Master of Public Administration degre
 
 ### Master of Public Administration Capstone (RPAD 696)
 
-**Last taught:** Fall 2024
+**Last taught:** Fall 2026
 
-This course is designed to assess students' application of the skills and knowledge gained over the course of their time in the Master of Public Administration program at the University at Albany, SUNY through a semester long research project on complex, contemporary policy and governance issues at the federal, state, or local level. 
+This course is designed to assess students' application of the skills and knowledge gained over the course of their time in the Master of Public Administration program at the University at Albany, SUNY through a semester long research project on complex, contemporary policy and governance issues at the federal, state, or local level.
 
 [Example Syllabus](https://stevebholt.github.io/rpad696/syllabus696.html) 👨‍🏫 [Course Site](https://stevebholt.github.io/rpad696/)
 
